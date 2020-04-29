@@ -1,2 +1,2 @@
 # Mora
-A Java turn based game which is played within the console. 
+Mora is a Java turn based game based on luck, where the player plays against the computer to score points. 
